@@ -10,7 +10,10 @@
 [![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/44/Gmail_Logo_2023.png)](mailto:jeelsoni1011@gmail.com)   
 
 [//]: # (Instagram) 
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/jeelsoni/)
+<a href="https://www.instagram.com/jeelsoni/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 40px; height: 40px;">
+</a>
+
 
 [//]: # (Profile Icon)
 [![](https://visitcount.itsvg.in/api?id=jeellangalia&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)

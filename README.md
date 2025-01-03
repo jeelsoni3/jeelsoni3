@@ -5,6 +5,10 @@
 <a href="https://www.linkedin.com/in/jeelsoni/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" alt="LinkedIn" style="width: 40px; height: 40px;">
 </a>
+[//]: # instagram 
+<a href="https://www.instagram.com/yourusername/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 40px; height: 40px;">
+</a>
 
 
 [//]: # (Hardline)

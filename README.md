@@ -57,12 +57,11 @@
 
 ## Let's Connect..!
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeelsoni)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeelsoni)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeelsoni1011@gmail.com)
 [![Outlook](https://img.shields.io/badge/OUTLOOK-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:langalia21627@hs-ansbach.de)
 [![Discord](https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@jeelsoni3)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeelsoni)
 
 ## 
 

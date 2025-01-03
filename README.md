@@ -5,9 +5,9 @@
 
 # Greetings from Jeel :)
 
-- A passionate Self-taught Student 😍
+- A passionate Self-taught Student.
 - Currently working on Python...
-- Learning Data Analysis, AI/ML 🤓
+- Learning Data Analysis, AI/ML..
 
 
 ## Skills

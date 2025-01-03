@@ -5,8 +5,9 @@
 # Let's Connect
 [//]: # (LinkedIn)
 <a href="https://www.linkedin.com/in/jeelsoni/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" alt="LinkedIn" style="width: 40px; height: 40px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" alt="LinkedIn" style="width: 40px; height: 40px; display: inline-block;">
 </a>
+
 
  [//]: # (Instagram)
 <a href="https://www.instagram.com/jeelsoni/" target="_blank">

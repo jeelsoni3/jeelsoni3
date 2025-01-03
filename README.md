@@ -17,6 +17,7 @@
 [![AZURE](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
 • Microsoft Applications
+
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/)
@@ -28,6 +29,7 @@
 [![Dataverse](https://img.shields.io/badge/Dataverse-0078D4?style=for-the-badge&logo=microsoft-dataverse&logoColor=white)](https://docs.microsoft.com/powerapps/maker/data-platform/data-platform-intro)
 
 • Other Applications
+
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/simulink.html)
 [![LS-DYNA](https://img.shields.io/badge/LS--DYNA-0033A0?style=for-the-badge&logo=logo-dyna&logoColor=white)](https://www.lstc.com/products/ls-dyna)
@@ -41,10 +43,14 @@
 [![Polysun](https://img.shields.io/badge/Polysun-003893?style=for-the-badge&logo=polysun&logoColor=white)](https://www.velasolaris.com/polysun/)
 
 
+
+
 ## Let's Connect..!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeelsoni)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeelsoni)
+
+
 
 ## 
 

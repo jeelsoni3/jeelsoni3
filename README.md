@@ -23,6 +23,8 @@
 [![GOOGLE](https://img.shields.io/badge/GOOGLE-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/)
 [![VISUAL STUDIO CODE](https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![AZURE](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Google Colab](https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com)
+[![ChatGPT](https://img.shields.io/badge/CHATGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
 
 • Microsoft Applications
 

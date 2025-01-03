@@ -2,6 +2,14 @@
 [//]: # (Hardline)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=An+Engineer+;Learner+Learning+.....)](https://git.io/typing-svg)
 
+
+# Hi, I'm Jeel👋
+
+- A passionate Self-taught Student 😍
+- Currently working on Python...
+- Learning Data Analysis, AI/ML 🤓
+
+
 ## Skills
 
 • Languages

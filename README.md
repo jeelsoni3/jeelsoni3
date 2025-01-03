@@ -1,6 +1,6 @@
 # <p align="center">Hallo !! Ich bin JEELKUMAR LANGALIA 👋   
 [//]: # (Hardline)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=An+Engineer+;Learner+Learning+.....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=An+Engineer;Learner+is+Learning......)](https://git.io/typing-svg)
 
 
 # Greetings from Jeel :)

@@ -21,6 +21,16 @@
 </a>
 
 
+## 🌍 Let's Connect..!
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeelsoni)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/youruserid)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Peerlist](https://img.shields.io/badge/Peerlist-1E90FF?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/yourusername)
+
+
+
 [//]: # (Profile Icon)
 [![](https://visitcount.itsvg.in/api?id=jeellangalia&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 

@@ -4,11 +4,11 @@
 
 ## Skills
 
-# Languages
+• Languages
 
 [![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
-# Software and Tools
+• Software and Tools
 
 [![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
@@ -16,7 +16,7 @@
 [![VISUAL STUDIO CODE](https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![AZURE](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
-# Microsoft Applications
+• Microsoft Applications
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/)
@@ -27,7 +27,7 @@
 [![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=microsoft-powerapps&logoColor=white)](https://powerapps.microsoft.com/)
 [![Dataverse](https://img.shields.io/badge/Dataverse-0078D4?style=for-the-badge&logo=microsoft-dataverse&logoColor=white)](https://docs.microsoft.com/powerapps/maker/data-platform/data-platform-intro)
 
-# Other Applications
+• Other Applications
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/simulink.html)
 [![LS-DYNA](https://img.shields.io/badge/LS--DYNA-0033A0?style=for-the-badge&logo=logo-dyna&logoColor=white)](https://www.lstc.com/products/ls-dyna)

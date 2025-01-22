@@ -5,7 +5,7 @@
 
 # Greetings from Jeel :)
 
-- A passionate Self-taught Student.
+- A Passionate Self-taught Student.
 - Currently studying Data Science at IIT Guwahati.
 
 
